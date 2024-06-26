@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: convert page to pdf
       uses: wei/curl@master
       with:
@@ -15,6 +15,6 @@ jobs:
     - name: commit PDF to branch
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: generate PDF from gh-pages
-        branch: gh-pages
+        commit_message: generate PDF from master
+        branch: master
         file_pattern: cv_en.pdf
