@@ -68,10 +68,20 @@ education:
       - degree: BMath in Computer Science & Financial Management
         university: University of Waterloo
         time: 2014 - 2019
+        details: |
+            - Database Systems
+            - Algorithms
+            - OOP
+            - Compiler
+            - Operating Systems
       - degree: BSc in Computer Science
         university: Georgia Institute of Technology
         time: 2023 - Present
-
+        details: |
+            Specialized in Computer Systems
+            - Software Development Process
+            - Computer Networking
+            - Machine Learning for Trading
 experiences:
     title: Experiences
     info:
@@ -79,32 +89,24 @@ experiences:
         time: 2022 - Present
         company: Ontario Teacher''s Pension Plan, Toronto
         details: |
-          Embedded within Capital Market: Designed and implemented software solutions for traders.
-            - Developed backend API of a cost model to estimate trading costs in futures trades with Python; created a user-friendly React frontend with Material UI.
-            - Designed and implemented a robust Python-based data pipeline to receive and process 5 million daily trading messages in real time, and persisted efficiently in Snowflake.
-            - Refactored and consolidated multiple projects into a reusable framework with extracted common components.
-      - role: Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Designed and developed web applications to enhance business analytical processes for capital market users with Python and React.
+            - Designed and implemented a robust Python-based data pipeline to process 5 million daily trading messages in real time, and persisted efficiently in Snowflake.
+            - Refactored and consolidated multiple projects into a reusable framework with extracted common components for improved efficiency.
+            - Led coordination sessions to capital market users on requirements collection and coding best practices.
+      - role: Software Engineer - Risk Platform
+        time: 2021 - 2022
+        company: TD Capital Markets, Toronto
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Developed a new module on the analytics platform to integrate new data sources with Java and Spring Framework.
+            - Built a web application to manage and display trading data with React.
+            - Developed Python-based internal tools to automate database deployment.
+            - Created unit and integration test cases for the analytics platform.
+      - role: Data Scientist
+        time: 2020 - 2021
+        company: TD Bank Group, Toronto
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Analyzed and predicted fraudulent activities using Python and SQL to identify opportunities to save $2 million from CERB cheques.
+            - Developed a analytical process in Python to prevent unnecessary phone calls from customer support teams to save $750k annually.
 
 certifications:
       title: Certifications
@@ -130,22 +132,6 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
