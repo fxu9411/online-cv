@@ -92,8 +92,8 @@ education:
       
             
 certifications:
-      title: Certifications
-      list:
+    title: Certifications
+    list:
         - name: Data Engineering Nanodegree
           start: 2022
           end: 2022
