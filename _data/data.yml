@@ -71,6 +71,14 @@ experiences:
 education:
     title: Education
     info:
+    - degree: BSc in Computer Science
+        university: Georgia Institute of Technology
+        time: 2023 - Present
+        details: |
+            Specialized in Computer Systems
+            - Software Development Process
+            - Computer Networking
+            - Machine Learning for Trading
       - degree: BMath in Computer Science & Financial Management
         university: University of Waterloo
         time: 2014 - 2019
@@ -80,14 +88,7 @@ education:
             - OOP
             - Compiler
             - Operating Systems
-      - degree: BSc in Computer Science
-        university: Georgia Institute of Technology
-        time: 2023 - Present
-        details: |
-            Specialized in Computer Systems
-            - Software Development Process
-            - Computer Networking
-            - Machine Learning for Trading
+      
             
 certifications:
       title: Certifications
