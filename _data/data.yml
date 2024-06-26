@@ -74,16 +74,16 @@ education:
         time: 2023 - Present
 
 experiences:
-    title: Experiences
-    info:
-      - role: Senior Software Developer - Trading Research & Analytics
-        time: 2022 - Present
-        company: Ontario Teacher''s Pension Plan, Toronto
-        details: |
-          Embedded within Capital Market: Designed and implemented software solutions for traders.
-            - Developed backend API of a cost model to estimate trading costs in futures trades with Python; created a user-friendly React frontend with Material UI.
-            - Designed and implemented a robust Python-based data pipeline to receive and process 5 million daily trading messages in real time, and persisted efficiently in Snowflake.
-            - Refactored and consolidated multiple projects into a reusable framework with extracted common components.
+    # title: Experiences
+    # info:
+    #   - role: Senior Software Developer - Trading Research & Analytics
+    #     time: 2022 - Present
+    #     company: Ontario Teacher''s Pension Plan, Toronto
+    #     details: |
+    #       Embedded within Capital Market: Designed and implemented software solutions for traders.
+    #         - Developed backend API of a cost model to estimate trading costs in futures trades with Python; created a user-friendly React frontend with Material UI.
+    #         - Designed and implemented a robust Python-based data pipeline to receive and process 5 million daily trading messages in real time, and persisted efficiently in Snowflake.
+    #         - Refactored and consolidated multiple projects into a reusable framework with extracted common components.
       - role: Software Engineer
         time: 2014 - 2015
         company: Google, London
