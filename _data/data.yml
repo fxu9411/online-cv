@@ -117,21 +117,21 @@ certifications:
           credentialid: 67VN38PA5Z4M
           credentialurl: www.coursera.org/account/accomplishments/specialization/certificate/67VN38PA5Z4M
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Flask
-        level: 98%
+#     toolset:
+#       - name: Python & Flask
+#         level: 98%
         
-      - name: SQL
-        level: 98%
+#       - name: SQL
+#         level: 98%
         
-      - name: Javascript & jQuery
-        level: 65%
+#       - name: Javascript & jQuery
+#         level: 65%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
