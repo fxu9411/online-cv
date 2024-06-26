@@ -1,4 +1,4 @@
-#
+ee#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -69,22 +69,14 @@ education:
       - degree: BMath in Computer Science & Financial Management
         university: University of Waterloo
         time: 2014 - 2019
-        details: 
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - degree: BSc in Computer Science
         university: Georgia Institute of Technology
         time: 2023 - Present
-        details: 
-            - Software Developmen Process
-            - Computer Networking
-            - Machine Learning for Trading
-            - Object-Oriented Programming
+        # details: 
+        #     - Software Developmen Process
+        #     - Computer Networking
+        #     - Machine Learning for Trading
+        #     - Object-Oriented Programming
 
 experiences:
     title: Experiences
@@ -250,5 +242,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
