@@ -31,6 +31,13 @@ sidebar:
           level: Beginner
 
     interests:
+      title: Programming Languages
+      info:
+        - item: Python
+        - item: C#
+        - item: Java
+        - item: JavaScript(React)
+        - item: SQL
       title: Tools, Framework and Platforms
       info:
         - item: Pandas
@@ -75,7 +82,7 @@ education:
         university: Georgia Institute of Technology
         time: 2023 - Present
         details: |
-             Specialized in Computer Systems
+            Specialized in Computer Systems
             - Software Development Process
             - Computer Networking
             - Machine Learning for Trading
@@ -83,17 +90,16 @@ education:
         university: University of Waterloo
         time: 2014 - 2019
         details: |
-            - Database Management and Design
+            - Database Systems
             - Algorithms
-            - Object-Oriented Programming
-            - Data Structure and Management
-            - Artificial Intelligence
+            - OOP
+            - Compiler
             - Operating Systems
-      
+
             
 certifications:
-    title: Certifications
-    list:
+      title: Certifications
+      list:
         - name: Data Engineering Nanodegree
           start: 2022
           end: 2022
