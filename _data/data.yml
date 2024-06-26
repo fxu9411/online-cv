@@ -4,7 +4,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Frank Xu
@@ -48,27 +48,6 @@ sidebar:
         - item: Material UI
         - item: Azure    
 
-education:
-    title: Education
-    info:
-      - degree: BMath in Computer Science & Financial Management
-        university: University of Waterloo
-        time: 2014 - 2019
-        details: |
-            - Database Systems
-            - Algorithms
-            - OOP
-            - Compiler
-            - Operating Systems
-      - degree: BSc in Computer Science
-        university: Georgia Institute of Technology
-        time: 2023 - Present
-        details: |
-            Specialized in Computer Systems
-            - Software Development Process
-            - Computer Networking
-            - Machine Learning for Trading
-                
 experiences:
     title: Experiences
     info:
@@ -95,6 +74,28 @@ experiences:
             - Analyzed and predicted fraudulent activities using Python and SQL to identify opportunities to save $2 million from CERB cheques.
             - Developed a analytical process in Python to prevent unnecessary phone calls from customer support teams to save $750k annually.
 
+
+education:
+    title: Education
+    info:
+      - degree: BMath in Computer Science & Financial Management
+        university: University of Waterloo
+        time: 2014 - 2019
+        details: |
+            - Database Systems
+            - Algorithms
+            - OOP
+            - Compiler
+            - Operating Systems
+      - degree: BSc in Computer Science
+        university: Georgia Institute of Technology
+        time: 2023 - Present
+        details: |
+            Specialized in Computer Systems
+            - Software Development Process
+            - Computer Networking
+            - Machine Learning for Trading
+            
 certifications:
       title: Certifications
       list:
