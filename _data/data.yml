@@ -18,6 +18,18 @@ sidebar:
     linkedin: frank-weixuan-xu
     github: fxu9411
 
+    languages:
+      title: Programming Languages
+      info:
+        - idiom: Python, SQL
+          level: Advanced
+
+        - idiom: C#, Java, JavaScript(React)
+          level: Intermediate
+
+        - idiom: C, C++
+          level: Beginner
+
     interests:
       title: Programming Languages
       info:
