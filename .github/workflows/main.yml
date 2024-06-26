@@ -2,7 +2,7 @@ name: create PDF file
 on: 
   push:
     branches: 
-      - gh-pages
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
