@@ -83,10 +83,11 @@ education:
         university: University of Waterloo
         time: 2014 - 2019
         details: |
-            - Database Systems
+            - Database Management and Design
             - Algorithms
-            - OOP
-            - Compiler
+            - Object-Oriented Programming
+            - Data Structure and Management
+            - Artificial Intelligence
             - Operating Systems
       
             
