@@ -53,14 +53,7 @@ sidebar:
 
     #     - item: Cooking
     #       link:
-    Education:
-      title: University of Waterloo
-      info:
-        - item: Bachelor of Computing and Financial Management (CFM)
-      title: Georgia Institute of Technology 
-      info:
-        - item: Master of Computer Science (CS)
-
+    
 # career-profile:
 #     title: Career Profile
 #     summary: |
@@ -73,9 +66,9 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BMath in Computer Science & Financial Management
+        university: University of Waterloo
+        time: 2014 - 2019
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
