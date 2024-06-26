@@ -69,14 +69,16 @@ education:
       - degree: BMath in Computer Science & Financial Management
         university: University of Waterloo
         time: 2014 - 2019
+        details: |
+            - Test
       - degree: BSc in Computer Science
         university: Georgia Institute of Technology
         time: 2023 - Present
-        # details: 
-        #     - Software Developmen Process
-        #     - Computer Networking
-        #     - Machine Learning for Trading
-        #     - Object-Oriented Programming
+        details: |
+            - Software Developmen Process
+            - Computer Networking
+            - Machine Learning for Trading
+            - Object-Oriented Programming
 
 experiences:
     title: Experiences
@@ -85,9 +87,10 @@ experiences:
         time: 2022 - Present
         company: Ontario Teacher''s Pension Plan, Toronto
         details: |
-          Embedded in Capital Market to design & implement software solutions for traders.
-            - Bullet point
-            - Bullet point
+          Embedded within Capital Market: Designed and implemented software solutions for traders.
+            - Developed backend API of a cost model to estimate trading costs in futures trades with Python; created a user-friendly React frontend with Material UI.
+            - Designed and implemented a robust Python-based data pipeline to receive and process 5 million daily trading messages in real time, and persisted efficiently in Snowflake.
+            - 
       - role: Software Engineer
         time: 2014 - 2015
         company: Google, London
