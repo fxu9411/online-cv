@@ -18,6 +18,24 @@ sidebar:
     linkedin: frank-weixuan-xu
     github: fxu9411
 
+    interests:
+      title: Programming Languages
+      info:
+        - item: Python
+        - item: C#
+        - item: Java
+        - item: JavaScript(React)
+        - item: SQL
+      title: Tools, Framework and Platforms
+      info:
+        - item: Pandas
+        - item: Airflow
+        - item: Hadoop
+        - item: SQL Server
+        - item: Snowflake
+        - item: Material UI
+        - item: Azure    
+
 education:
     title: Education
     info:
