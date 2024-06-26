@@ -31,13 +31,6 @@ sidebar:
           level: Beginner
 
     interests:
-      title: Programming Languages
-      info:
-        - item: Python
-        - item: C#
-        - item: Java
-        - item: JavaScript(React)
-        - item: SQL
       title: Tools, Framework and Platforms
       info:
         - item: Pandas
@@ -105,18 +98,18 @@ certifications:
           organization: Udacity
           credentialid: 6ZMGUAPD
           credentialurl: www.udacity.com/certificate/6ZMGUAPD
-        - name: IBM Data Science Specialization
-          start: 2019
-          end: 2019
-          organization: IBM
-          credentialid: MNL253B7L3VP
-          credentialurl: www.coursera.org/account/accomplishments/specialization/MNL253B7L3VP
         - name: IBM AI Engineering Certificate
           start: 2020
           end: 2020
           organization: IBM
           credentialid: 67VN38PA5Z4M
           credentialurl: www.coursera.org/account/accomplishments/specialization/certificate/67VN38PA5Z4M
+        - name: IBM Data Science Specialization
+          start: 2019
+          end: 2019
+          organization: IBM
+          credentialid: MNL253B7L3VP
+          credentialurl: www.coursera.org/account/accomplishments/specialization/MNL253B7L3VP
 
 # skills:
 #     title: Skills &amp; Proficiency
