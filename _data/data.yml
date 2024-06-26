@@ -2,8 +2,8 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -15,53 +15,9 @@ sidebar:
     email: frank.xu.94@gmail.com
     phone: +1 289-772-6487
     timezone: America/Toronto Timezone
-    # citizenship:
-    # website: blog.webjeda.com #do not add http://
     linkedin: frank-weixuan-xu
-    # xing: alandoe
     github: fxu9411
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    # languages:
-    #   title: Languages
-    #   info:
-    #     - idiom: English
-    #       level: Native
-
-    #     - idiom: French
-    #       level: Professional
-
-    #     - idiom: Spanish
-    #       level: Professional
-
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Climbing
-    #       link:
-
-    #     - item: Snowboarding
-    #       link:
-
-    #     - item: Cooking
-    #       link:
-    
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
 education:
     title: Education
     info:
@@ -82,6 +38,7 @@ education:
             - Software Development Process
             - Computer Networking
             - Machine Learning for Trading
+                
 experiences:
     title: Experiences
     info:
@@ -116,64 +73,35 @@ certifications:
           end: 2022
           organization: Udacity
           credentialid: 6ZMGUAPD
-          credentialurl: www.udacity.com/certificate/
-          credentialname: Udacity
-          details: |
-              - Data models
-              - Build data warehouses
-              - Data lakes
-              - Automate data pipelines
-              - Work with massive datasets
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+          credentialurl: www.udacity.com/certificate/6ZMGUAPD
+        - name: IBM Data Science Specialization
+          start: 2019
+          end: 2019
+          organization: IBM
+          credentialid: MNL253B7L3VP
+          credentialurl: www.coursera.org/account/accomplishments/specialization/MNL253B7L3VP
+        - name: IBM AI Engineering Certificate
+          start: 2020
+          end: 2020
+          organization: IBM
+          credentialid: 67VN38PA5Z4M
+          credentialurl: www.coursera.org/account/accomplishments/specialization/certificate/67VN38PA5Z4M
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Flask
         level: 98%
-
+        
+      - name: SQL
+        level: 98%
+        
       - name: Javascript & jQuery
-        level: 98%
+        level: 65%
 
       - name: Angular
         level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
